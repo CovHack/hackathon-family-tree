@@ -161,4 +161,5 @@ graph TD;
     JPMCodeForGood-->DurHack;  
     HackaSoton-->HackTrain;  
     HackSheffield;
+    CUCCHack-->CovHack;
     
